@@ -1,0 +1,1 @@
+insert into stg_iris (atr1, atr2, atr3, atr4) values ('${atr1}','${atr2}','${atr3}','${atr4}');

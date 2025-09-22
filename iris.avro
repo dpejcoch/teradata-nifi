@@ -1,0 +1,10 @@
+{
+    "type": "record",
+    "name": "IrisRecord",
+    "fields": [
+        {"name":"atr1", "type": "bytes", "logicalType": "decimal"},
+        {"name":"atr2", "type": "bytes", "logicalType": "decimal"},
+        {"name":"atr3", "type": "bytes", "logicalType": "decimal"},
+        {"name":"atr4", "type": "bytes", "logicalType": "decimal"}
+    ]
+}
